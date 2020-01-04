@@ -1,0 +1,6 @@
+lib
+lib/*
+obj
+obj/*
+build
+build/*
