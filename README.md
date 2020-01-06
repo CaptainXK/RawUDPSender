@@ -2,7 +2,7 @@
 ## Target
 Target Send a UDP segment via raw socket.
 
-## Backgroud
+## Background
 
 The skeleton of this code comes from this [link](https://blog.csdn.net/luchengtao11/article/details/73878760).
 
